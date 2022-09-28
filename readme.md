@@ -10,8 +10,8 @@ see [signaling] and the levels of communicative acts.
 6. [PerlocutionaryAct][pera]
 7. [NoeticAct][noea]
 8. [SomaticAct][soma]: gesturing, posing
-9. [DoxasticAct][doxa]
-10. [ChromaticAct][choa]
+9. [DoxasticAct][doxa]: using the beliefs "℘ is ♣"
+10. [ChromaticAct][choa]: using the colors #______, etc.
 
 ## act tasks
 
