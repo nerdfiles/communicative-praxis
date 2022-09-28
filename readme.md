@@ -73,6 +73,8 @@ e.g.,
    (specializability), “present satisfaction” (satisfiability),
    “concrescence” (concretizability)
 
+![witty](https://raw.githubusercontent.com/nerdfiles/communicative-praxis/master/witty.png)
+
 ![sense](https://raw.githubusercontent.com/nerdfiles/communicative-praxis/master/sense.png)
 
 ![façan de parler](https://raw.githubusercontent.com/nerdfiles/communicative-praxis/master/facan-de-parler.png)
