@@ -2,5 +2,8 @@
   "@type": "ChromaticAction",
   "agent": {},
   "participant": {},
-  "result": {}
+  "result": {},
+  "links": [],
+  "entities": [],
+  "actions": []
 }
