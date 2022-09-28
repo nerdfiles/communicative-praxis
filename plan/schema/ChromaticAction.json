@@ -1,7 +1,10 @@
 {
   "@type": "ChromaticAction",
+
   "agent": {},
+
   "participant": {},
+
   "result": {},
 
   "links": [
@@ -54,9 +57,14 @@
   ],
 
   "responses": [],
+
   "sprites": [],
+
   "loaders": [],
+
   "renders": [],
+
   "used": [],
+
   "related": []
 }
