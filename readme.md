@@ -40,6 +40,7 @@ communicative acts imply realizable or unrealizable tasks.
    but with [modalism]).
 2. [role]
 3. [The Language of Philosophy and the Philosophy of Language: a Symbiotic Paradigm][asp]
+4. [fourthness]
 
 e.g.,
 
@@ -109,6 +110,7 @@ e.g.,
 
 obviously none of these are "real" yet.
 
+[fourthness]: https://www.academia.edu/3360660/The_World_According_to4_Or_Fourthness_as_a_Typological_Necessity
 [attention]: https://scholarsbank.uoregon.edu/xmlui/bitstream/handle/1794/1878/Johnson_AttentionMetaphors_OCR.pdf?sequence=4
 [metaphors]: http://theliterarylink.com/metaphors.html
 [learning]: https://www.jstor.org/stable/20117928
