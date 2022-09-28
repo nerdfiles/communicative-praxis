@@ -1,7 +1,7 @@
 # communcative praxis
 
 see [signaling] and the levels of communicative acts within and between
-architectural and [learning] styles.
+[architectural][rest] and [learning] styles.
 
 ![workspace](https://raw.githubusercontent.com/nerdfiles/communicative-praxis/master/workspace.png)
 
@@ -171,6 +171,7 @@ e.g.,
 
 obviously none of these are "real" yet.
 
+[rest]: https://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven
 [www]: https://aravishack.medium.com/websocket-and-webworker-4d33b1d064fb
 [sense]: https://dbpedia.org/page/MySensors
 [irony]: https://www.academia.edu/17031036/Irony_and_metarepresentation
