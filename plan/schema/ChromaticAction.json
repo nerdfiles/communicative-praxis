@@ -3,9 +3,56 @@
   "agent": {},
   "participant": {},
   "result": {},
-  "links": [],
-  "entities": [],
-  "actions": [],
+
+  "links": [
+    {
+      "rel": ["self"],
+      "href": "https://ex.app/self{?$me,ChromaticAction,#my-sensor,@support}"
+    }
+  ],
+
+  "entities": [
+    {
+      "ID": 123456789
+    }
+  ],
+
+  "actions": [
+    { 
+      "name": "docs",
+      "method": "OPTIONS"
+    },
+    { "method": "GET" },
+    { "method": "POST" },
+    { "method": "DELETE" },
+    { "method": "HEAD" },
+    { "method": "PUT" },
+    { "method": "TRACE" },
+    { "method": "CONNECT" },
+    { "method": "PROPFIND" },
+    { "method": "PROPPATCH" },
+    { "method": "MKCOL" },
+    { "method": "COPY" },
+    { "method": "MOVE" },
+    { "method": "LOCK" },
+    { "method": "UNLOCK" },
+    { "method": "VERSIONCONTROL" },
+    { "method": "REPORT" },
+    { "method": "CHECKOUT" },
+    { "method": "CHECKIN" },
+    { "method": "UNCHECKOUT" },
+    { "method": "MKWORKSPACE" },
+    { "method": "UPDATE" },
+    { "method": "LABEL" },
+    { "method": "MERGE" },
+    { "method": "BASELINECONTROL" },
+    { "method": "MKACTIVITY" },
+    { "method": "ORDERPATCH" },
+    { "method": "ACL" },
+    { "method": "PATCH" },
+    { "method": "SEARCH" }
+  ],
+
   "responses": [],
   "sprites": [],
   "loaders": [],
