@@ -23,6 +23,7 @@ architectural and [learning] styles.
     constitutes rule divergence, decomposition.
 16. [PragmaticAction][praa]: using *modal forces*, *the structure of the space of
     possibility* (delanda, nanay), etc.
+17. [ImprovizmaticAction][impa]
 
 ## act tasks
 
@@ -128,6 +129,8 @@ e.g.,
 
 ### [PragmaticAction][praa]
 
+### [ImprovizmaticAction][impa]
+
 <em>(wip)</em>
 
 ## footnotes
@@ -145,6 +148,7 @@ obviously none of these are "real" yet.
 [role]: https://www.researchgate.net/publication/226728046_The_Role_of_Logic_and_Ontology_in_Language_and_Reasoning
 [asp]: https://drive.google.com/file/d/1nHEA5qCR7VEW-MCZPZcuSDb4-GPK1CKq/view?usp=sharing
 [phoa]: https://schema.org/PhoeticActionion
+[impa]: https://schema.org/ImprovizmaticAction
 [noea]: https://schema.org/NoeticAction
 [phan]: https://schema.org/PhantomaticAction
 [iroa]: https://schema.org/IronicAction
