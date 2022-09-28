@@ -8,6 +8,8 @@ see [signaling] and the levels of communicative acts within and between
 (my goal here is in making specializability and concretizability target
 quality properties of *[web architecture][arch]*.)
 
+![patterns](https://raw.githubusercontent.com/nerdfiles/communicative-praxis/master/patterns-of-relationship.png)
+
 > there are as many heads as there are opinions.
 >
 > spinoza, or someone like him.
