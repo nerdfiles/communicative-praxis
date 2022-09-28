@@ -1,5 +1,7 @@
 # communcative praxis
 
+![Troika. Established in 2003. Life and Death of an Algorithm, 2019. 9,779 Coloured Dice](https://pbs.twimg.com/media/FdwpMi9WAAAU-68?format=jpg&name=large)
+
 see [signaling] and the levels of communicative acts within and between
 [architectural][rest] and [learning] styles.
 
