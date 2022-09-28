@@ -12,6 +12,8 @@ concretizability target quality properties of *[web architecture][arch]*).
 
 ![workspace](https://raw.githubusercontent.com/nerdfiles/communicative-praxis/master/workspace.png)
 
+![ChromaticAction](https://raw.githubusercontent.com/nerdfiles/communicative-praxis/master/ChromaticAction.png)
+
 1. [PhoeticAction][phoa]
 2. [PhaticAction][phaa]
 3. [RheticAction][rhea]
