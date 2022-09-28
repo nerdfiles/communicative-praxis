@@ -10,6 +10,8 @@ quality properties of *[web architecture][arch]*.)
 
 ![patterns](https://raw.githubusercontent.com/nerdfiles/communicative-praxis/master/patterns-of-relationship.png)
 
+> "[Gregory Bateson - Steps to an Ecology of Mind: Collected Essays in Anthropology, Psychiatry, Evolution, and Epistemology][bateson]". Jason Aronson. 1987.
+
 > there are as many heads as there are opinions.
 >
 > spinoza, or someone like him.
@@ -187,6 +189,7 @@ e.g.,
 
 obviously none of these are "real" yet.
 
+[bateson]: https://drive.google.com/file/d/1iI4jaJLf3nOh5LaPsbZb7r2ulvkNCUxh/view?usp=sharing
 [arch]: https://www.programmer-books.com/wp-content/uploads/2019/07/Microservice-Architecture.pdf
 [rest]: https://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven
 [www]: https://aravishack.medium.com/websocket-and-webworker-4d33b1d064fb
