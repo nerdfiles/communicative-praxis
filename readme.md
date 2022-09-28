@@ -74,9 +74,7 @@ e.g.,
 obviously none of these are "real" yet.
 
 [role]: https://www.researchgate.net/publication/226728046_The_Role_of_Logic_and_Ontology_in_Language_and_Reasoning
-[role0]: "The Role of Logic and Ontology in Language and Reasoning".
 [asp]: https://drive.google.com/file/d/1nHEA5qCR7VEW-MCZPZcuSDb4-GPK1CKq/view?usp=sharing
-[asp0]: "The Language of Philosophy and the Philosophy of Language: a Symbiotic Paradigm".
 [phoa]: https://schema.org/PhoeticAction
 [phaa]: https://schema.org/PhaticAction
 [rhea]: https://schema.org/RheticAction
