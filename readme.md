@@ -3,6 +3,12 @@
 see [signaling] and the levels of communicative acts within and between
 [architectural][rest] and [learning] styles.
 
+> there are as many heads as there are opinions.
+>
+> spinoza, or someone like him.
+
+*a fortiori, there are as many [architectures, or architectural styles] as [there _are learning_]*.
+
 ![workspace](https://raw.githubusercontent.com/nerdfiles/communicative-praxis/master/workspace.png)
 
 1. [PhoeticAction][phoa]
