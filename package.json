@@ -1,0 +1,20 @@
+{
+  "name": "communicative-praxis",
+  "version": "1.0.0",
+  "description": "see [signaling] and the levels of communicative acts within and between [architectural][rest] and [learning] styles.",
+  "main": "index.js",
+  "scripts": {
+    "#help": "npm run $(echo \"$(npm run)\" | percol)"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nerdfiles/communicative-praxis.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/nerdfiles/communicative-praxis/issues"
+  },
+  "homepage": "https://github.com/nerdfiles/communicative-praxis#readme"
+}
