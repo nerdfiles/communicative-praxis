@@ -1,8 +1,10 @@
 # communcative praxis
 
 see [signaling] and the levels of communicative acts within and between
-[architectural][rest] and [learning] styles (making specializability and
-concretizability target quality properties of *[web architecture][arch]*).
+[architectural][rest] and [learning] styles.
+
+(my goal here is in making specializability and concretizability target
+quality properties of *[web architecture][arch]*.)
 
 > there are as many heads as there are opinions.
 >
