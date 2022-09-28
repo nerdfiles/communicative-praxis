@@ -45,6 +45,16 @@ e.g.,
 
 ![t](https://raw.githubusercontent.com/nerdfiles/communicative-praxis/master/t.png)
 
+![ x ](https://raw.githubusercontent.com/nerdfiles/communicative-praxis/master/x.png)
+
+<hr />
+
+![ notation ](https://raw.githubusercontent.com/nerdfiles/communicative-praxis/master/notation.png)
+
+![ bug ](https://raw.githubusercontent.com/nerdfiles/communicative-praxis/master/bug.png)
+
+![ op ](https://raw.githubusercontent.com/nerdfiles/communicative-praxis/master/op.png)
+
 ### recognizing 
 
 (recognition for future consequences)
