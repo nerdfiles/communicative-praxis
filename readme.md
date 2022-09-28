@@ -25,15 +25,16 @@ architectural and [learning] styles.
     constitutes rule divergence, decomposition.
 16. [PragmaticAction][praa]: using *modal forces*, *the structure of the space of
     possibility* (delanda, nanay), etc.
-17. [ImprovizmaticAction][impa]
-17. [EstimaticAction][esta]
-17. [MimeticAction][mima]
-17. [ApologeticAction][apoa]
-18. [AxiomaticAction][axia]
-19. [EromaticAction][eroa]
-20. [PathomaticAction][pata]
-21. [MathematicAction][mata]
-22. [LogomaticAction][loga]
+17. [ParadigmaticAction][para]
+18. [ImprovizmaticAction][impa]
+19. [EstimaticAction][esta]
+20. [MimeticAction][mima]
+21. [ApologeticAction][apoa]
+22. [AxiomaticAction][axia]
+23. [EromaticAction][eroa]
+24. [PathomaticAction][pata]
+25. [MathematicAction][mata]
+26. [LogomaticAction][loga]
 
 see [WebSocket and WebWorker][www].
 
@@ -141,6 +142,8 @@ e.g.,
 
 ### [PragmaticAction][praa]
 
+### [ParadigmaticAction][para]
+
 ### [ImprovizmaticAction][impa]
 
 ### [ApologeticAction][apoa]
@@ -193,6 +196,7 @@ obviously none of these are "real" yet.
 [epia]: https://schema.org/EpistemicAction
 [noma]: https://schema.org/NomicAction
 [praa]: https://schema.org/PragmaticAction
+[para]: https://schema.org/ParadigmaticAction
 [choa]: https://schema.org/ChromaticAction
 [doxa]: https://schema.org/DoxasticAction
 [soma]: https://schema.org/SomaticAction
