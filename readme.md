@@ -24,6 +24,9 @@ architectural and [learning] styles.
 16. [PragmaticAction][praa]: using *modal forces*, *the structure of the space of
     possibility* (delanda, nanay), etc.
 17. [ImprovizmaticAction][impa]
+17. [EstimaticAction][esta]
+17. [MimeticAction][mima]
+17. [ApologeticAction][apoa]
 
 ## act tasks
 
@@ -131,6 +134,12 @@ e.g.,
 
 ### [ImprovizmaticAction][impa]
 
+### [ApologeticAction][apoa]
+
+### [MimeticAction][mima]
+
+### [EstimaticAction][esta]
+
 <em>(wip)</em>
 
 ## footnotes
@@ -149,6 +158,9 @@ obviously none of these are "real" yet.
 [asp]: https://drive.google.com/file/d/1nHEA5qCR7VEW-MCZPZcuSDb4-GPK1CKq/view?usp=sharing
 [phoa]: https://schema.org/PhoeticActionion
 [impa]: https://schema.org/ImprovizmaticAction
+[esta]: https://schema.org/EstimaticAction
+[mima]: https://schema.org/MimeticAction
+[apoa]: https://schema.org/ApologeticAction
 [noea]: https://schema.org/NoeticAction
 [phan]: https://schema.org/PhantomaticAction
 [iroa]: https://schema.org/IronicAction
