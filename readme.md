@@ -105,7 +105,7 @@ e.g.,
 
 ### attending
 
-`(attention for future consequences)`
+`def=: (attention for future consequences)`
 
 1. see [metaphors] for [attention], by mark johnson and george lakoff.
 2. criteriological occurrence and consciousness, p.m.s. hacker and bennett
