@@ -8,6 +8,10 @@ see [signaling] and the levels of communicative acts within and between
 (my goal here is in making specializability and concretizability target
 quality properties of *[web architecture][arch]*.)
 
+![systemic](https://raw.githubusercontent.com/nerdfiles/communicative-praxis/master/systemic.png)
+
+![dynamic](https://raw.githubusercontent.com/nerdfiles/communicative-praxis/master/dynamic.png)
+
 ![patterns](https://raw.githubusercontent.com/nerdfiles/communicative-praxis/master/patterns-of-relationship.png)
 
 > "[Gregory Bateson - Steps to an Ecology of Mind: Collected Essays in Anthropology, Psychiatry, Evolution, and Epistemology][bateson]". Jason Aronson. 1987.
