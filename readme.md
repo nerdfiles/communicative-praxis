@@ -46,8 +46,8 @@ e.g.,
 (recognition for future consequences)
 
 1. non-classical systematicity
-2. metonymic structure; "[metonymies] are more literal than
-   metaphors". 
+2. metonymic structure; [metonymies] are more literal than
+   metaphors. 
 
 ### attending
 
