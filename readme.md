@@ -26,15 +26,16 @@ architectural and [learning] styles.
 16. [PragmaticAction][praa]: using *modal forces*, *the structure of the space of
     possibility* (delanda, nanay), etc.
 17. [ParadigmaticAction][para]
-18. [ImprovizmaticAction][impa]
-19. [EstimaticAction][esta]
-20. [MimeticAction][mima]
-21. [ApologeticAction][apoa]
-22. [AxiomaticAction][axia]
-23. [EromaticAction][eroa]
-24. [PathomaticAction][pata]
-25. [MathematicAction][mata]
-26. [LogomaticAction][loga]
+18. [CymaticAction][cyma]
+19. [ImprovizmaticAction][impa]
+20. [EstimaticAction][esta]
+21. [MimeticAction][mima]
+22. [ApologeticAction][apoa]
+23. [AxiomaticAction][axia]
+24. [EromaticAction][eroa]
+25. [PathomaticAction][pata]
+26. [MathematicAction][mata]
+27. [LogomaticAction][loga]
 
 see [WebSocket and WebWorker][www].
 
@@ -144,6 +145,8 @@ e.g.,
 
 ### [ParadigmaticAction][para]
 
+### [CymaticAction][cyma]
+
 ### [ImprovizmaticAction][impa]
 
 ### [ApologeticAction][apoa]
@@ -197,6 +200,7 @@ obviously none of these are "real" yet.
 [noma]: https://schema.org/NomicAction
 [praa]: https://schema.org/PragmaticAction
 [para]: https://schema.org/ParadigmaticAction
+[cyma]: https://schema.org/CymaticAction
 [choa]: https://schema.org/ChromaticAction
 [doxa]: https://schema.org/DoxasticAction
 [soma]: https://schema.org/SomaticAction
