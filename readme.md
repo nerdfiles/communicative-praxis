@@ -61,7 +61,7 @@ communicative acts imply realizable or unrealizable tasks.
 
 ### considering 
 
-(consideration for future consequences)
+`def=: (consideration for future consequences)`
 
 1. [cfc]
 2. [time preferences][timep]
@@ -71,7 +71,7 @@ communicative acts imply realizable or unrealizable tasks.
 
 ### identifying
 
-(identification of future consequeces)
+`def=: (identification of future consequeces)`
 
 1. modal spotlight theory; moving spotlight theory, by brad skow. (y'know,
    but with [modalism]).
@@ -97,7 +97,7 @@ e.g.,
 
 ### recognizing 
 
-(recognition for future consequences)
+`def=: (recognition for future consequences)`
 
 1. non-classical systematicity
 2. metonymic structure; [metonymies] are more literal than
@@ -105,7 +105,7 @@ e.g.,
 
 ### attending
 
-(attention for future consequences)
+`(attention for future consequences)`
 
 1. see [metaphors] for [attention], by mark johnson and george lakoff.
 2. criteriological occurrence and consciousness, p.m.s. hacker and bennett
