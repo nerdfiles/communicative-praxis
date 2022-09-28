@@ -68,10 +68,16 @@ e.g.,
 (attention for future consequences)
 
 1. see [metaphors] for [attention], by mark johnson and george lakoff.
-2. occurrence and consciousness, p.m.s. hacker and bennett
+2. criteriological occurrence and consciousness, p.m.s. hacker and bennett
 3. occasion as “prehension” (comprehensibility), “objective data”
    (specializability), “present satisfaction” (satisfiability),
    “concrescence” (concretizability)
+
+![sense](https://raw.githubusercontent.com/nerdfiles/communicative-praxis/master/sense.png)
+
+![criteria](https://raw.githubusercontent.com/nerdfiles/communicative-praxis/master/criteria.png)
+
+![façan de parler](https://raw.githubusercontent.com/nerdfiles/communicative-praxis/master/facan-de-parler.png)
 
 ## acts
 
