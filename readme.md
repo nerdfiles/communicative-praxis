@@ -39,7 +39,7 @@ communicative acts imply realizable or unrealizable tasks.
 
 e.g.,
 
-![]()
+![t](https://raw.githubusercontent.com/nerdfiles/communicative-praxis/master/t.png)
 
 ### recognizing 
 
