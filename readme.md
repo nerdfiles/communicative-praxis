@@ -19,11 +19,16 @@ communicative acts imply realizable or unrealizable tasks.
 
 ### considering 
 
-consideration for future consequences
+(consideration for future consequences)
+
+1. [cfc]
+2. [time preferences][timep]
 
 ### identifying
 
-identification of future consequeces
+(identification of future consequeces)
+
+1. moving spotlight theory, by brad skow. (y'know, but with [modalism])
 
 ### recognizing 
 
@@ -31,7 +36,9 @@ recognition for future consequences
 
 ### attending
 
-attention for future consequences
+(attention for future consequences)
+
+see metaphors for attention, by mark johnson and george lakoff.
 
 ## acts
 
@@ -58,3 +65,9 @@ obviously none of these are "real" yet.
 [illa]: https://schema.org/IlluctionaryAct
 [pera]: https://schema.org/PerlocutionaryAct
 [signaling]: https://holoentropic.tumblr.com/post/696641980437004288/if-meaning-and-being-easily-understand-is-so
+[cfc]: https://en.wikipedia.org/wiki/Consideration_of_future_consequences
+[timep]: https://en.wikipedia.org/wiki/Time_preference
+[modalism]: https://plato.stanford.edu/entries/modality-epistemology/#ModaNorm
+[plea]: https://www.researchgate.net/publication/33039407
+
+<!-- EOF -->
