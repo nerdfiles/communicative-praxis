@@ -30,6 +30,7 @@ architectural and [learning] styles.
 18. [AxiomaticAction][axia]
 19. [EromaticAction][eroa]
 20. [PathomaticAction][pata]
+21. [MathematicAction][mata]
 
 see [WebSocket and WebWorker][www].
 
@@ -151,6 +152,8 @@ e.g.,
 
 ### [PathomaticAction][pata]
 
+### [MathematicAction][mata]
+
 <em>(wip)</em>
 
 ## footnotes
@@ -176,6 +179,7 @@ obviously none of these are "real" yet.
 [axia]: https://schema.org/Axiomatic
 [eroa]: https://schema.org/Eromatic
 [pata]: https://schema.org/Pathomatic
+[mata]: https://schema.org/MathematicAction
 [noea]: https://schema.org/NoeticAction
 [phan]: https://schema.org/PhantomaticAction
 [iroa]: https://schema.org/IronicAction
