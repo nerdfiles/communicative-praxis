@@ -73,19 +73,7 @@ e.g.,
    (specializability), “present satisfaction” (satisfiability),
    “concrescence” (concretizability)
 
-![THE RELEVANCE OF WITTGENSTEIN’S PHILOSOPHY OF PSYCHOLOGY TO THE PSYCHOLOGICAL SCIENCES P. M. S. Hacker
-
-Clarification of the psychological concepts that are deployed in psychological investigations is a prerequisite for posing fruitful questions amenable to experimental methods.
-
-This has direct bearing on the psychological sciences. In particular, it can serve to rule out a range of psychological theories that fail to respect this conceptual scheme, while simultaneously invoking it. Wittgenstein’s philosophy of psychology provides a firm ground for fundamental criticisms of:
-
-Psychological predicates typically display first/third-person asymmetry. The characteristic first-person present tense use (an Aüsserung or avowal) does not rest on introspection conceived as inner sense; nor does it rest on observation of one’s own behaviour. It is groundless. The third-person use, by contrast, rests on what the subject says and does.
-
-(vii) ‘First-person (epistemic) authority’ and ‘privileged access’ are misnomers. In saying ‘I have a headache’, the speaker enjoys no authority regarding an object of knowledge about which he is better informed than others.
-
-If anything, the speaker enjoys a form of verdictive power to decide, as when he says ‘I want a glass of water’. If a person cannot say what he wants, what he has to do is not find out, but examine the desirability characteristics of the options and decide what to want.
-
-To ascribe psychological attributes to the brain is to commit a mereological fallacy – akin to claiming that it is aeroplane’s engines, rather than aeroplanes, that fly, or that it is the great wheel of a clock, rather than the clock as a whole, that keeps time.](https://raw.githubusercontent.com/nerdfiles/communicative-praxis/master/witty.png)
+![THE RELEVANCE OF WITTGENSTEIN’S PHILOSOPHY OF PSYCHOLOGY TO THE PSYCHOLOGICAL SCIENCES P. M. S. Hacker \ Clarification of the psychological concepts that are deployed in psychological investigations is a prerequisite for posing fruitful questions amenable to experimental methods. \ This has direct bearing on the psychological sciences. In particular, it can serve to rule out a range of psychological theories that fail to respect this conceptual scheme, while simultaneously invoking it. Wittgenstein’s philosophy of psychology provides a firm ground for fundamental criticisms of: \ Psychological predicates typically display first/third-person asymmetry. The characteristic first-person present tense use (an Aüsserung or avowal) does not rest on introspection conceived as inner sense; nor does it rest on observation of one’s own behaviour. It is groundless. The third-person use, by contrast, rests on what the subject says and does. \ (vii) ‘First-person (epistemic) authority’ and ‘privileged access’ are misnomers. In saying ‘I have a headache’, the speaker enjoys no authority regarding an object of knowledge about which he is better informed than others. \ If anything, the speaker enjoys a form of verdictive power to decide, as when he says ‘I want a glass of water’. If a person cannot say what he wants, what he has to do is not find out, but examine the desirability characteristics of the options and decide what to want. \ To ascribe psychological attributes to the brain is to commit a mereological fallacy – akin to claiming that it is aeroplane’s engines, rather than aeroplanes, that fly, or that it is the great wheel of a clock, rather than the clock as a whole, that keeps time.](https://raw.githubusercontent.com/nerdfiles/communicative-praxis/master/witty.png)
 
 ![sense](https://raw.githubusercontent.com/nerdfiles/communicative-praxis/master/sense.png)
 
