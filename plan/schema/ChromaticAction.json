@@ -25,7 +25,10 @@
       "name": "docs",
       "method": "OPTIONS"
     },
-    { "method": "GET" },
+    { 
+      "name": "index",
+      "method": "GET"
+    },
     { "method": "POST" },
     { "method": "DELETE" },
     { "method": "HEAD" },
