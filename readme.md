@@ -13,6 +13,7 @@ architectural and [learning] styles.
 8. [SomaticAction][soma]: gesturing, posing
 9. [DoxasticAction][doxa]: using the beliefs "℘ is ♣"
 10. [ChromaticAction][choa]: using the colors #______, etc.
+11. [PhantomaticAction][phan]: using sense-events in threat-assemblages
 
 ## act tasks
 
@@ -41,6 +42,8 @@ communicative acts imply realizable or unrealizable tasks.
 2. [role]
 3. [The Language of Philosophy and the Philosophy of Language: a Symbiotic Paradigm][asp]
 4. [fourthness]
+5. [typicality]
+6. [specularizability][specularizability]
 
 e.g.,
 
@@ -104,12 +107,16 @@ e.g.,
 
 ### [ChromaticAction][choa]
 
+### [PhantomaticAction][phan]
+
 <em>(wip)</em>
 
 ## footnotes
 
 obviously none of these are "real" yet.
 
+[specularizability]: https://drive.google.com/file/d/11RCjsniViERPkSyuxV_067CLi37dKUsT/view?usp=sharing
+[typicality]: https://www.researchgate.net/publication/260281398_Type_Field_Culture_Praxis
 [fourthness]: https://www.academia.edu/3360660/The_World_According_to4_Or_Fourthness_as_a_Typological_Necessity
 [attention]: https://scholarsbank.uoregon.edu/xmlui/bitstream/handle/1794/1878/Johnson_AttentionMetaphors_OCR.pdf?sequence=4
 [metaphors]: http://theliterarylink.com/metaphors.html
@@ -118,6 +125,7 @@ obviously none of these are "real" yet.
 [asp]: https://drive.google.com/file/d/1nHEA5qCR7VEW-MCZPZcuSDb4-GPK1CKq/view?usp=sharing
 [phoa]: https://schema.org/PhoeticActionion
 [noea]: https://schema.org/NoeticAction
+[phan]: https://schema.org/PhantomaticAction
 [choa]: https://schema.org/ChromaticAction
 [doxa]: https://schema.org/DoxasticAction
 [soma]: https://schema.org/SomaticAction
