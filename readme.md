@@ -9,7 +9,7 @@ see [signaling] and the levels of communicative acts.
 5. [IlluctionaryAct][illa]
 6. [PerlocutionaryAct][pera]
 7. [NoeticAct][noea]
-8. [SomaticAct[soma]: gesturing, posing
+8. [SomaticAct][soma]: gesturing, posing
 9. [DoxasticAct][doxa]
 10. [ChromaticAct][choa]
 
