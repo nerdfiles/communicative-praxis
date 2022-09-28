@@ -4,6 +4,8 @@
   "description": "see [signaling] and the levels of communicative acts within and between [architectural][rest] and [learning] styles.",
   "main": "index.js",
   "scripts": {
+    "build": "npx @11ty/eleventy --input=. --output=_site && cd _site && echo 'communicative-praxis.surge.sh' > CNAME",
+    "publish": "cd _site && surge .",
     "#help": "npm run $(echo \"$(npm run)\" | percol)"
   },
   "repository": {
