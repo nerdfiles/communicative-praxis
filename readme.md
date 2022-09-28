@@ -14,6 +14,11 @@ architectural and [learning] styles.
 9. [DoxasticAction][doxa]: using the beliefs "℘ is ♣"
 10. [ChromaticAction][choa]: using the colors #______, etc.
 11. [PhantomaticAction][phan]: using sense-events in threat-assemblages
+12. [IronicAction][iroa]
+13. [EchoicAction][echa]
+14. [EpistemicAction][epia]
+15. [NomicAction][noma]
+16. [PragmaticAction][praa]
 
 ## act tasks
 
@@ -109,6 +114,16 @@ e.g.,
 
 ### [PhantomaticAction][phan]
 
+### [IronicAction][iroa]
+
+### [EchoicAction][echa]
+
+### [EpistemicAction][epia]
+
+### [NomicAction][noma]
+
+### [PragmaticAction][praa]
+
 <em>(wip)</em>
 
 ## footnotes
@@ -126,6 +141,11 @@ obviously none of these are "real" yet.
 [phoa]: https://schema.org/PhoeticActionion
 [noea]: https://schema.org/NoeticAction
 [phan]: https://schema.org/PhantomaticAction
+[iroa]: https://schema.org/IronicAction
+[echa]: https://schema.org/EchoicAction
+[epia]: https://schema.org/EpistemicAction
+[noma]: https://schema.org/NomicAction
+[praa]: https://schema.org/PragmaticAction
 [choa]: https://schema.org/ChromaticAction
 [doxa]: https://schema.org/DoxasticAction
 [soma]: https://schema.org/SomaticAction
