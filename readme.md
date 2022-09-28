@@ -67,7 +67,11 @@ e.g.,
 
 (attention for future consequences)
 
-1. see metaphors for attention, by mark johnson and george lakoff.
+1. see [metaphors] for [attention], by mark johnson and george lakoff.
+2. occurrence and consciousness, p.m.s. hacker and bennett
+3. occasion as “prehension” (comprehensibility), “objective data”
+   (specializability), “present satisfaction” (satisfiability),
+   “concrescence” (concretizability)
 
 ## acts
 
@@ -97,6 +101,8 @@ e.g.,
 
 obviously none of these are "real" yet.
 
+[attention]: https://scholarsbank.uoregon.edu/xmlui/bitstream/handle/1794/1878/Johnson_AttentionMetaphors_OCR.pdf?sequence=4
+[metaphors]: http://theliterarylink.com/metaphors.html
 [learning]: https://www.jstor.org/stable/20117928
 [role]: https://www.researchgate.net/publication/226728046_The_Role_of_Logic_and_Ontology_in_Language_and_Reasoning
 [asp]: https://drive.google.com/file/d/1nHEA5qCR7VEW-MCZPZcuSDb4-GPK1CKq/view?usp=sharing
