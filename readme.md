@@ -1,6 +1,6 @@
 # communcative praxis
 
- act tasks described in tense, modal, affective and veridictive marker annotations.
+act tasks described in tense, modal, affective and veridictive marker annotations.
 
 <div style="width: 100%">
   <img
