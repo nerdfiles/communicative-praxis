@@ -2,7 +2,7 @@
 
 see [signaling] and the levels of communicative acts within and between
 [architectural][rest] and [learning] styles (making specializability and
-concretizability target quality properties of *web architecture*).
+concretizability target quality properties of *[web architecture][arch]*).
 
 > there are as many heads as there are opinions.
 >
@@ -178,6 +178,7 @@ e.g.,
 
 obviously none of these are "real" yet.
 
+[arch]: https://www.programmer-books.com/wp-content/uploads/2019/07/Microservice-Architecture.pdf
 [rest]: https://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven
 [www]: https://aravishack.medium.com/websocket-and-webworker-4d33b1d064fb
 [sense]: https://dbpedia.org/page/MySensors
