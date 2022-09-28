@@ -3,6 +3,8 @@
 see [signaling] and the levels of communicative acts within and between
 architectural and [learning] styles.
 
+![workspace](https://raw.githubusercontent.com/nerdfiles/communicative-praxis/master/workspace.png)
+
 1. [PhoeticAction][phoa]
 2. [PhaticAction][phaa]
 3. [RheticAction][rhea]
