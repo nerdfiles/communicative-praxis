@@ -8,6 +8,10 @@ see [signaling] and the levels of communicative acts.
 4. [LocutionaryAct][loca]
 5. [IlluctionaryAct][illa]
 6. [PerlocutionaryAct][pera]
+7. [NoeticAct][noea]
+8. [SomaticAct[soma]: gesturing, posing
+9. [DoxasticAct][doxa]
+10. [ChromaticAct][choa]
 
 ## act tasks
 
@@ -76,6 +80,10 @@ obviously none of these are "real" yet.
 [role]: https://www.researchgate.net/publication/226728046_The_Role_of_Logic_and_Ontology_in_Language_and_Reasoning
 [asp]: https://drive.google.com/file/d/1nHEA5qCR7VEW-MCZPZcuSDb4-GPK1CKq/view?usp=sharing
 [phoa]: https://schema.org/PhoeticAction
+[noma]: https://schema.org/NoeticAct
+[choa]: https://schema.org/ChromaticAct
+[doxa]: https://schema.org/DoxasticAct
+[soma]: https://schema.org/SomaticAct
 [phaa]: https://schema.org/PhaticAction
 [rhea]: https://schema.org/RheticAction
 [loca]: https://schema.org/LocutionaryAct
