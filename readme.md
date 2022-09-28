@@ -16,6 +16,8 @@ quality properties of *[web architecture][arch]*.)
 
 > "[Gregory Bateson - Steps to an Ecology of Mind: Collected Essays in Anthropology, Psychiatry, Evolution, and Epistemology][bateson]". Jason Aronson. 1987.
 
+<hr />
+
 > there are as many heads as there are opinions.
 >
 > spinoza, or someone like him.
