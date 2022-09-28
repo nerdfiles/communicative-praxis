@@ -8,8 +8,6 @@ see [signaling] and the levels of communicative acts within and between
 (my goal here is in making specializability and concretizability target
 quality properties of *[web architecture][arch]*.)
 
- <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/mXI2And2yQ_QLt0bo20JtA/696666355339051008" data-did="435fd73b754940cc18c1b80146a224c20dbb65c1"><a href="https://holoentropic.tumblr.com/post/696666355339051008">https://holoentropic.tumblr.com/post/696666355339051008</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
-
 ![patterns](https://raw.githubusercontent.com/nerdfiles/communicative-praxis/master/patterns-of-relationship.png)
 
 > "[Gregory Bateson - Steps to an Ecology of Mind: Collected Essays in Anthropology, Psychiatry, Evolution, and Epistemology][bateson]". Jason Aronson. 1987.
