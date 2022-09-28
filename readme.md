@@ -2,16 +2,16 @@
 
 see [signaling] and the levels of communicative acts.
 
-1. [PhoeticAct][phoa]
-2. [PhaticAct][phaa]
-3. [RheticAct][rhea]
-4. [LocutionaryAct][loca]
-5. [IlluctionaryAct][illa]
-6. [PerlocutionaryAct][pera]
-7. [NoeticAct][noea]
-8. [SomaticAct][soma]: gesturing, posing
-9. [DoxasticAct][doxa]: using the beliefs "℘ is ♣"
-10. [ChromaticAct][choa]: using the colors #______, etc.
+1. [PhoeticAction][phoa]
+2. [PhaticAction][phaa]
+3. [RheticAction][rhea]
+4. [LocutionaryAction][loca]
+5. [IlluctionaryAction][illa]
+6. [PerlocutionaryAction][pera]
+7. [NoeticAction][noea]
+8. [SomaticAction][soma]: gesturing, posing
+9. [DoxasticAction][doxa]: using the beliefs "℘ is ♣"
+10. [ChromaticAction][choa]: using the colors #______, etc.
 
 ## act tasks
 
@@ -61,17 +61,17 @@ e.g.,
 
 ## acts
 
-### [PhoeticAct][phoa]
+### [PhoeticAction][phoa]
 
-### [PhaticAct][phaa]
+### [PhaticAction][phaa]
 
-### [RheticAct][rhea]
+### [RheticAction][rhea]
 
-### [LocutionaryAct][loca]
+### [LocutionaryAction][loca]
 
-### [IlluctionaryAct][illa]
+### [IlluctionaryAction][illa]
 
-### [PerlocutionaryAct][pera]
+### [PerlocutionaryAction][pera]
 
 ## footnotes
 
@@ -79,16 +79,16 @@ obviously none of these are "real" yet.
 
 [role]: https://www.researchgate.net/publication/226728046_The_Role_of_Logic_and_Ontology_in_Language_and_Reasoning
 [asp]: https://drive.google.com/file/d/1nHEA5qCR7VEW-MCZPZcuSDb4-GPK1CKq/view?usp=sharing
-[phoa]: https://schema.org/PhoeticAction
-[noea]: https://schema.org/NoeticAct
-[choa]: https://schema.org/ChromaticAct
-[doxa]: https://schema.org/DoxasticAct
-[soma]: https://schema.org/SomaticAct
-[phaa]: https://schema.org/PhaticAction
-[rhea]: https://schema.org/RheticAction
-[loca]: https://schema.org/LocutionaryAct
-[illa]: https://schema.org/IlluctionaryAct
-[pera]: https://schema.org/PerlocutionaryAct
+[phoa]: https://schema.org/PhoeticActionion
+[noea]: https://schema.org/NoeticAction
+[choa]: https://schema.org/ChromaticAction
+[doxa]: https://schema.org/DoxasticAction
+[soma]: https://schema.org/SomaticAction
+[phaa]: https://schema.org/PhaticActionion
+[rhea]: https://schema.org/RheticActionion
+[loca]: https://schema.org/LocutionaryAction
+[illa]: https://schema.org/IlluctionaryAction
+[pera]: https://schema.org/PerlocutionaryAction
 [signaling]: https://holoentropic.tumblr.com/post/696641980437004288/if-meaning-and-being-easily-understand-is-so
 [cfc]: https://en.wikipedia.org/wiki/Consideration_of_future_consequences
 [timep]: https://en.wikipedia.org/wiki/Time_preference
