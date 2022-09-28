@@ -75,9 +75,9 @@ e.g.,
 
 ![sense](https://raw.githubusercontent.com/nerdfiles/communicative-praxis/master/sense.png)
 
-![criteria](https://raw.githubusercontent.com/nerdfiles/communicative-praxis/master/criteria.png)
-
 ![façan de parler](https://raw.githubusercontent.com/nerdfiles/communicative-praxis/master/facan-de-parler.png)
+
+![criteria](https://raw.githubusercontent.com/nerdfiles/communicative-praxis/master/criteria.png)
 
 ## acts
 
