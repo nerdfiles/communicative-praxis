@@ -10,7 +10,8 @@ quality properties of *[web architecture][arch]*.)
 >
 > spinoza, or someone like him.
 
-*a fortiori, there are as many [architectures, or architectural styles] as [there __are learning__]*.
+*a fortiori, there are as many [architectures, or architectural styles] as
+[there __are learning__]*.
 
 ![workspace](https://raw.githubusercontent.com/nerdfiles/communicative-praxis/master/workspace.png)
 
