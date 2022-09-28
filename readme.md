@@ -27,6 +27,11 @@ architectural and [learning] styles.
 17. [EstimaticAction][esta]
 17. [MimeticAction][mima]
 17. [ApologeticAction][apoa]
+18. [AxiomaticAction][axia]
+19. [EromaticAction][eroa]
+20. [PathomaticAction][pata]
+
+see [WebSocket and WebWorker][www].
 
 ## act tasks
 
@@ -140,12 +145,19 @@ e.g.,
 
 ### [EstimaticAction][esta]
 
+### [AxiomaticAction][axia]
+
+### [EromaticAction][eroa]
+
+### [PathomaticAction][pata]
+
 <em>(wip)</em>
 
 ## footnotes
 
 obviously none of these are "real" yet.
 
+[www]: https://aravishack.medium.com/websocket-and-webworker-4d33b1d064fb
 [sense]: https://dbpedia.org/page/MySensors
 [irony]: https://www.academia.edu/17031036/Irony_and_metarepresentation
 [specularizability]: https://drive.google.com/file/d/11RCjsniViERPkSyuxV_067CLi37dKUsT/view?usp=sharing
@@ -161,6 +173,9 @@ obviously none of these are "real" yet.
 [esta]: https://schema.org/EstimaticAction
 [mima]: https://schema.org/MimeticAction
 [apoa]: https://schema.org/ApologeticAction
+[axia]: https://schema.org/Axiomatic
+[eroa]: https://schema.org/Eromatic
+[pata]: https://schema.org/Pathomatic
 [noea]: https://schema.org/NoeticAction
 [phan]: https://schema.org/PhantomaticAction
 [iroa]: https://schema.org/IronicAction
