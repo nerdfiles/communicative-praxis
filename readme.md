@@ -1,6 +1,7 @@
 # communcative praxis
 
-see [signaling] and the levels of communicative acts.
+see [signaling] and the levels of communicative acts within and between
+architectural and [learning] styles.
 
 1. [PhoeticAction][phoa]
 2. [PhaticAction][phaa]
@@ -30,7 +31,6 @@ communicative acts imply realizable or unrealizable tasks.
 3. [temporalism]
 4. [educology] and [ learnability ][garson]
 5. [ cooperative ethos ][roemer]
-
 
 ### identifying
 
@@ -97,6 +97,7 @@ e.g.,
 
 obviously none of these are "real" yet.
 
+[learning]: https://www.jstor.org/stable/20117928
 [role]: https://www.researchgate.net/publication/226728046_The_Role_of_Logic_and_Ontology_in_Language_and_Reasoning
 [asp]: https://drive.google.com/file/d/1nHEA5qCR7VEW-MCZPZcuSDb4-GPK1CKq/view?usp=sharing
 [phoa]: https://schema.org/PhoeticActionion
