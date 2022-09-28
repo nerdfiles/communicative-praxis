@@ -7,7 +7,7 @@
     "build": "npx @11ty/eleventy --input=. --output=_site && cd _site/readme && echo 'communicative-praxis.surge.sh' > CNAME",
     "build/index": "npx @11ty/eleventy --input=. --output=_index && cd _index/index && echo 'communicative-index.surge.sh' > CNAME",
     "publish": "cd _site/readme && surge .",
-    "publish/indeex": "cd _index/index && surge .",
+    "publish/index": "cd _index/index && surge .",
     "open": "open https://communicative-praxis.surge.sh",
     "open/index": "open https://communicative-index.surge.sh",
     "#help": "npm run $(echo \"$(npm run)\" | percol)"
