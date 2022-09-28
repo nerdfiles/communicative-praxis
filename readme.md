@@ -10,15 +10,19 @@ architectural and [learning] styles.
 5. [IlluctionaryAction][illa]
 6. [PerlocutionaryAction][pera]
 7. [NoeticAction][noea]
-8. [SomaticAction][soma]: gesturing, posing
-9. [DoxasticAction][doxa]: using the beliefs "℘ is ♣"
+8. [SomaticAction][soma]: gesturing, posing.
+9. [DoxasticAction][doxa]: using the beliefs "℘ is ♣"; i.e., bdi agents and attitudinal semantics à la paul saka.
 10. [ChromaticAction][choa]: using the colors #______, etc.
-11. [PhantomaticAction][phan]: using sense-events in threat-assemblages
-12. [IronicAction][iroa]
-13. [EchoicAction][echa]
-14. [EpistemicAction][epia]
-15. [NomicAction][noma]
-16. [PragmaticAction][praa]
+11. [PhantomaticAction][phan]: using [*sense-events*][sense] in threat-assemblages.
+12. [IronicAction][iroa]: [metarepresentation][irony], viz. <em>non-parodic irony</em>.
+13. [EchoicAction][echa]: (ibid.).
+14. [EpistemicAction][epia]: using *the structure of the application of the
+    rule of play*; how much of setting up arithmetic involves prefixed number
+    theory, re: numerical identity, compossibility, identity of indiscernibles, the structure of necessaneity, etc.?
+15. [NomicAction][noma]: using *the structure of the rule of play*; what 
+    constitutes rule divergence, decomposition.
+16. [PragmaticAction][praa]: using *modal forces*, *the structure of the space of
+    possibility* (delanda, nanay), etc.
 
 ## act tasks
 
@@ -130,6 +134,8 @@ e.g.,
 
 obviously none of these are "real" yet.
 
+[sense]: https://dbpedia.org/page/MySensors
+[irony]: https://www.academia.edu/17031036/Irony_and_metarepresentation
 [specularizability]: https://drive.google.com/file/d/11RCjsniViERPkSyuxV_067CLi37dKUsT/view?usp=sharing
 [typicality]: https://www.researchgate.net/publication/260281398_Type_Field_Culture_Praxis
 [fourthness]: https://www.academia.edu/3360660/The_World_According_to4_Or_Fourthness_as_a_Typological_Necessity
