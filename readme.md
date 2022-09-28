@@ -73,6 +73,16 @@ e.g.,
 
 ### [PerlocutionaryAction][pera]
 
+### [NoeticAction][noea]
+
+### [SomaticAction][soma]
+
+### [DoxasticAction][doxa]
+
+### [ChromaticAction][choa]
+
+<em>(wip)</em>
+
 ## footnotes
 
 obviously none of these are "real" yet.
