@@ -7,7 +7,7 @@ see [signaling] and the levels of communicative acts within and between
 >
 > spinoza, or someone like him.
 
-*a fortiori, there are as many [architectures, or architectural styles] as [there _are learning_]*.
+*a fortiori, there are as many [architectures, or architectural styles] as [there __are learning__]*.
 
 ![workspace](https://raw.githubusercontent.com/nerdfiles/communicative-praxis/master/workspace.png)
 
