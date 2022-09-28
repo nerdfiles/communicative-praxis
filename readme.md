@@ -1,5 +1,7 @@
 # communcative praxis
 
+ act tasks described in tense, modal, affective and veridictive marker annotations.
+
 <div style="width: 100%">
   <img
     alt="Troika. Established in 2003. Life and Death of an Algorithm, 2019. 9,779 Coloured Dice"

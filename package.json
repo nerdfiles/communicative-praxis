@@ -10,6 +10,8 @@
     "publish/index": "cd _index/index && surge .",
     "open": "open https://communicative-praxis.surge.sh",
     "open/index": "open https://communicative-index.surge.sh",
+    "help": "npm run $(echo \"$(npm run)\" | percol)",
+    "h": "npm run $(echo \"$(npm run)\" | percol)",
     "#help": "npm run $(echo \"$(npm run)\" | percol)"
   },
   "repository": {
