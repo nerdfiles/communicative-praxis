@@ -31,6 +31,7 @@ architectural and [learning] styles.
 19. [EromaticAction][eroa]
 20. [PathomaticAction][pata]
 21. [MathematicAction][mata]
+22. [LogomaticAction][loga]
 
 see [WebSocket and WebWorker][www].
 
@@ -154,6 +155,8 @@ e.g.,
 
 ### [MathematicAction][mata]
 
+### [LogomaticAction][loga]
+
 <em>(wip)</em>
 
 ## footnotes
@@ -180,6 +183,7 @@ obviously none of these are "real" yet.
 [eroa]: https://schema.org/Eromatic
 [pata]: https://schema.org/Pathomatic
 [mata]: https://schema.org/MathematicAction
+[loga]: https://schema.org/LogomaticAction
 [noea]: https://schema.org/NoeticAction
 [phan]: https://schema.org/PhantomaticAction
 [iroa]: https://schema.org/IronicAction
