@@ -57,8 +57,8 @@ quality properties of *[web architecture][arch]*.)
 
 <div style="width: 100%">
   <img
-    alt="wworkspace"
-    src="https://raw.githubusercontent.com/nerdfiles/communicative-praxis/master/wworkspace.png"
+    alt="workspace"
+    src="https://raw.githubusercontent.com/nerdfiles/communicative-praxis/master/workspace.png"
     style="max-width: 50%"
   />
 </div>
