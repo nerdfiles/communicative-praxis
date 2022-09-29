@@ -16,7 +16,13 @@ see [signaling] and the levels of communicative acts within and between
 (my goal here is in making specializability and concretizability target
 quality properties of *[web architecture][arch]*.)
 
-![systemic](https://raw.githubusercontent.com/nerdfiles/communicative-praxis/master/systemic.png)
+<div style="width: 100%">
+  <img
+    alt="systemic"
+    src="https://raw.githubusercontent.com/nerdfiles/communicative-praxis/master/systemic.png"
+    style="max-width: 50%"
+  />
+</div>
 
 ![dynamic](https://raw.githubusercontent.com/nerdfiles/communicative-praxis/master/dynamic.png)
 
