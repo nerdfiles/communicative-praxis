@@ -34,7 +34,15 @@ quality properties of *[web architecture][arch]*.)
   />
 </div>
 
-![patterns](https://raw.githubusercontent.com/nerdfiles/communicative-praxis/master/patterns-of-relationship.png)
+.
+
+<div style="width: 100%">
+  <img
+    alt="patterns-of-relationship"
+    src="https://raw.githubusercontent.com/nerdfiles/communicative-praxis/master/patterns-of-relationship.png"
+    style="max-width: 50%"
+  />
+</div>
 
 > "[Gregory Bateson - Steps to an Ecology of Mind: Collected Essays in Anthropology, Psychiatry, Evolution, and Epistemology][bateson]". Jason Aronson. 1987.
 
@@ -47,7 +55,13 @@ quality properties of *[web architecture][arch]*.)
 *a fortiori, there are as many [architectures, or architectural styles] as
 [there __are learning__]*.
 
-![workspace](https://raw.githubusercontent.com/nerdfiles/communicative-praxis/master/workspace.png)
+<div style="width: 100%">
+  <img
+    alt="wworkspace"
+    src="https://raw.githubusercontent.com/nerdfiles/communicative-praxis/master/wworkspace.png"
+    style="max-width: 50%"
+  />
+</div>
 
 ![ChromaticAction](https://raw.githubusercontent.com/nerdfiles/communicative-praxis/master/ChromaticAction.png)
 
