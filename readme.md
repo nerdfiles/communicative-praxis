@@ -24,6 +24,7 @@ quality properties of *[web architecture][arch]*.)
   />
 </div>
 
+.
 
 <div style="width: 100%">
   <img
