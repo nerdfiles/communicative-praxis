@@ -24,7 +24,14 @@ quality properties of *[web architecture][arch]*.)
   />
 </div>
 
-![dynamic](https://raw.githubusercontent.com/nerdfiles/communicative-praxis/master/dynamic.png)
+
+<div style="width: 100%">
+  <img
+    alt="dynamic"
+    src="https://raw.githubusercontent.com/nerdfiles/communicative-praxis/master/dynamic.png"
+    style="max-width: 50%"
+  />
+</div>
 
 ![patterns](https://raw.githubusercontent.com/nerdfiles/communicative-praxis/master/patterns-of-relationship.png)
 
