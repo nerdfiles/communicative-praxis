@@ -19,7 +19,7 @@ quality properties of *[web architecture][arch]*.)
 <div style="width: 100%">
   <img
     alt="systemic"
-    src="https://raw.githubusercontent.com/nerdfiles/communicative-praxis/master/systemic.png"
+    src="https://raw.githubusercontent.com/nerdfiles/communicative-praxis/master/assets/systemic.png"
     style="max-width: 50%"
   />
 </div>
@@ -29,7 +29,7 @@ quality properties of *[web architecture][arch]*.)
 <div style="width: 100%">
   <img
     alt="dynamic"
-    src="https://raw.githubusercontent.com/nerdfiles/communicative-praxis/master/dynamic.png"
+    src="https://raw.githubusercontent.com/nerdfiles/communicative-praxis/master/assets/dynamic.png"
     style="max-width: 50%"
   />
 </div>
@@ -39,7 +39,7 @@ quality properties of *[web architecture][arch]*.)
 <div style="width: 100%">
   <img
     alt="patterns-of-relationship"
-    src="https://raw.githubusercontent.com/nerdfiles/communicative-praxis/master/patterns-of-relationship.png"
+    src="https://raw.githubusercontent.com/nerdfiles/communicative-praxis/master/assets/patterns-of-relationship.png"
     style="max-width: 50%"
   />
 </div>
@@ -58,7 +58,7 @@ quality properties of *[web architecture][arch]*.)
 <div style="width: 100%">
   <img
     alt="workspace"
-    src="https://raw.githubusercontent.com/nerdfiles/communicative-praxis/master/workspace.png"
+    src="https://raw.githubusercontent.com/nerdfiles/communicative-praxis/master/assets/workspace.png"
     style="max-width: 50%"
   />
 </div>
@@ -66,7 +66,7 @@ quality properties of *[web architecture][arch]*.)
 <div style="width: 100%">
   <img
     alt="ChromaticAction"
-    src="https://raw.githubusercontent.com/nerdfiles/communicative-praxis/master/ChromaticAction.png"
+    src="https://raw.githubusercontent.com/nerdfiles/communicative-praxis/master/assets/ChromaticAction.png"
     style="max-width: 50%"
   />
 </div>
@@ -140,13 +140,13 @@ e.g.,
 <div style="width: 100%">
   <img alt="t"
        style="max-width: 50%"
-       src="https://raw.githubusercontent.com/nerdfiles/communicative-praxis/master/t.png" />
+       src="https://raw.githubusercontent.com/nerdfiles/communicative-praxis/master/assets/t.png" />
 </div>
 
 <div style="width: 100%">
   <img alt="x"
        style="max-width: 50%"
-       src="https://raw.githubusercontent.com/nerdfiles/communicative-praxis/master/x.png" />
+       src="https://raw.githubusercontent.com/nerdfiles/communicative-praxis/master/assets/x.png" />
 </div>
 
 <hr />
@@ -154,19 +154,19 @@ e.g.,
 <div style="width: 100%">
   <img alt="notation"
        style="max-width: 50%"
-       src="https://raw.githubusercontent.com/nerdfiles/communicative-praxis/master/notation.png" />
+       src="https://raw.githubusercontent.com/nerdfiles/communicative-praxis/master/assets/notation.png" />
 </div>
 
 <div style="width: 100%">
   <img alt="bug"
        style="max-width: 50%"
-       src="https://raw.githubusercontent.com/nerdfiles/communicative-praxis/master/bug.png)" />
+       src="https://raw.githubusercontent.com/nerdfiles/communicative-praxis/master/assets/bug.png)" />
 </div>
 
 <div style="width: 100%">
   <img alt="op"
        style="max-width: 50%"
-       src="https://raw.githubusercontent.com/nerdfiles/communicative-praxis/master/op.png" />
+       src="https://raw.githubusercontent.com/nerdfiles/communicative-praxis/master/assets/op.png" />
 </div>
 
 ### recognizing 
@@ -189,7 +189,7 @@ e.g.,
 
 <div style="width: 100%">
   <img alt="THE RELEVANCE OF WITTGENSTEIN’S PHILOSOPHY OF PSYCHOLOGY TO THE PSYCHOLOGICAL SCIENCES P. M. S. Hacker \ Clarification of the psychological concepts that are deployed in psychological investigations is a prerequisite for posing fruitful questions amenable to experimental methods. \ This has direct bearing on the psychological sciences. In particular, it can serve to rule out a range of psychological theories that fail to respect this conceptual scheme, while simultaneously invoking it. Wittgenstein’s philosophy of psychology provides a firm ground for fundamental criticisms of: \ Psychological predicates typically display first/third-person asymmetry. The characteristic first-person present tense use (an Aüsserung or avowal) does not rest on introspection conceived as inner sense; nor does it rest on observation of one’s own behaviour. It is groundless. The third-person use, by contrast, rests on what the subject says and does. \ (vii) ‘First-person (epistemic) authority’ and ‘privileged access’ are misnomers. In saying ‘I have a headache’, the speaker enjoys no authority regarding an object of knowledge about which he is better informed than others. \ If anything, the speaker enjoys a form of verdictive power to decide, as when he says ‘I want a glass of water’. If a person cannot say what he wants, what he has to do is not find out, but examine the desirability characteristics of the options and decide what to want. \ To ascribe psychological attributes to the brain is to commit a mereological fallacy – akin to claiming that it is aeroplane’s engines, rather than aeroplanes, that fly, or that it is the great wheel of a clock, rather than the clock as a whole, that keeps time."
-       src="https://raw.githubusercontent.com/nerdfiles/communicative-praxis/master/witty.png"
+       src="https://raw.githubusercontent.com/nerdfiles/communicative-praxis/master/assets/witty.png"
        style="max-width: 50%"
   />
 </div>
@@ -197,19 +197,19 @@ e.g.,
 <div style="width: 100%">
   <img alt="sense"
        style="max-width: 50%"
-       src="https://raw.githubusercontent.com/nerdfiles/communicative-praxis/master/sense.png" />
+       src="https://raw.githubusercontent.com/nerdfiles/communicative-praxis/master/assets/sense.png" />
 </div>
 
 <div style="width: 100%">
   <img alt="façan de parler"
        style="max-width: 50%"
-       src="https://raw.githubusercontent.com/nerdfiles/communicative-praxis/master/facan-de-parler.png" />
+       src="https://raw.githubusercontent.com/nerdfiles/communicative-praxis/master/assets/facan-de-parler.png" />
 </div>
 
 <div style="width: 100%">
   <img alt="criteria"
        style="max-width: 50%"
-       src="https://raw.githubusercontent.com/nerdfiles/communicative-praxis/master/criteria.png" />
+       src="https://raw.githubusercontent.com/nerdfiles/communicative-praxis/master/assets/criteria.png" />
 </div>
 
 ## acts
