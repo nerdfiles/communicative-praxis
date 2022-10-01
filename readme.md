@@ -5,7 +5,7 @@ act tasks described in tense, modal, affective and veridictive marker annotation
 <div style="width: 100%">
   <img
     alt="Troika. Established in 2003. Life and Death of an Algorithm, 2019. 9,779 Coloured Dice"
-    src="https://pbs.twimg.com/media/FdwpMi9WAAAU-68?format=jpg&name=large"
+    src="https://raw.githubusercontent.com/nerdfiles/communicative-praxis/master/assets/FdwpMi9WAAAU-68.jpg"
     style="max-width: 50%"
   />
 </div>
