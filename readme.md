@@ -1,6 +1,11 @@
 # communcative praxis
 
-[repo]
+this [repo][repo] is dedicated to an offering; namely to the public domain,
+*domain schemas* for working with act tasks using protocol-level actions
+according to the hypermedia-orientation. action semantics are partially
+informed by existing vocabularies (dublincore.org, schema.org, dbpedia.org, etc.).
+
+<hr />
 
 act tasks described in tense, modal, affective and veridictive marker annotations.
 
@@ -89,7 +94,7 @@ quality properties of *[web architecture][arch]*.)
 14. [EpistemicAction][epia]: using *the structure of the application of the
     rule of play*; how much of setting up arithmetic involves prefixed number
     theory, re: numerical identity, compossibility, identity of indiscernibles, the structure of necessaneity, etc.?
-15. [NomicAction][noma]: using *the structure of the rule of play*; what 
+15. [NomicAction][noma]: using *the structure of the rule of play*; what
     constitutes rule divergence, decomposition.
 16. [PragmaticAction][praa]: using *modal forces*, *the structure of the space of
     possibility* (delanda, nanay), etc.
@@ -170,7 +175,7 @@ a point here is to draw out models or semantics for assemblages in medium specif
 *labeling* begets learnability. suppose `L1* Lying is a sign.` now here asserted
 attitudinal disposition is presupposed, but only with arrangement and activity;
 however *mere assertion*, *mere arrangement*, and *mere supposition of activity*
-(i.e., conceivability) confers not a model that is an analogy with the *agency 
+(i.e., conceivability) confers not a model that is an analogy with the *agency
 of reasons* (talk of *projectability*, *desirability*) or *advantage of
 proposition* (*warrantability*; i.e., warrant to infer; median utility,
 probabilitistic contents), which are matters having to concern the structure
@@ -195,7 +200,7 @@ tells us when there is a change in the quality properties of meaningful truth
 is a constant reality of the measure of disagreement, how near or far those
 in disagreement or agreement relate to one another given some other
 existing notional stability of attendant or co-governing sense. modes
-for graph traversal, often represented as conceivability, become undone 
+for graph traversal, often represented as conceivability, become undone
 given radical change or difference of advantage of proposition between
 agents.
 
@@ -216,7 +221,7 @@ is no fact of the matter to answer such a question while as yet, that's not
 whom speakers are intending to search out as-if lurking around in their own
 meaning.
 
-### considering 
+### considering
 
 `def=: (consideration for future consequences)`
 
@@ -272,13 +277,13 @@ e.g.,
        src="https://raw.githubusercontent.com/nerdfiles/communicative-praxis/master/assets/op.png" />
 </div>
 
-### recognizing 
+### recognizing
 
 `def=: (recognition for future consequences)`
 
 1. non-classical systematicity
 2. metonymic structure; [metonymies] are more literal than
-   metaphors. 
+   metaphors.
 
 ### attending
 
@@ -427,6 +432,6 @@ obviously none of these are "real" yet.
 [educology]: https://tedfrick.sitehost.iu.edu/steiner/Methodology%20of%20Theory%20Building%204mb.pdf
 [metonymies]: https://www.cambridge.org/core/journals/language-and-cognition/article/metonymies-are-more-literal-than-metaphors-evidence-from-ratings-of-german-idioms/1CBBCFF893235E161608B6834860FA69
 [dark]: https://cup.columbia.edu/book/dark-ecology/9780231177528
-[repo]:
+[repo]: https://github.com/nerdfiles/communicative-praxis
 
 <!-- EOF -->
