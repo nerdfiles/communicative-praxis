@@ -3,7 +3,12 @@
 this [repo][repo] is dedicated to an offering; namely to the public domain,
 *domain schemas* for working with act tasks using protocol-level actions
 according to the hypermedia-orientation. action semantics are partially
-informed by existing vocabularies (dublincore.org, schema.org, dbpedia.org, etc.).
+informed by existing vocabularies (dublincore.org, schema.org, dbpedia.org, w3.org, etc.).
+
+my goal is to bring forth the obvious, how the "document object model" like shared
+vocabularies can be incorporated into protocol-level actions (i.e., how the `disabled`
+attribute can be featured as a property in the <abbr title="application programming interface">API</abbr> 
+along with `skip` and `limit`).
 
 <hr />
 
