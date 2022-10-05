@@ -13,7 +13,9 @@ the <abbr title="application programming interface">API</abbr> along with
 
 i don't think we need as much javascript as we do today to manipulate the DOM
 if we'd just plan eventual interactivity more thoroughly. plus, the cached
-execution of javascript is [a performance bottleneck][neck].
+execution of javascript is [a performance bottleneck][neck]. javascript to call
+and faithfully deliver task-based interfaces in the response text? great. javascript
+to perform weird DOM manipulations, traversals, creations, and deletions? not the best.
 
 <hr />
 
