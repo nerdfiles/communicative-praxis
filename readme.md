@@ -1,4 +1,4 @@
-# communcative praxis
+# communicative praxis
 
 this [repo][repo] is dedicated to an offering; namely to the public domain,
 *domain schemas* for working with act tasks using protocol-level actions
