@@ -1,7 +1,7 @@
 /**
  * @name EstimationAction
  * @usage
- * const user = EstimationAction({
+ * const estimationAction = EstimationAction({
  *   name: 'est.1'
  * })
  */
@@ -10,7 +10,7 @@ import HelpText from '../helpers/HelpText'
 
 const helpText = new HelpText()
 
-const CONCEPT_NAME = 'EstimationAction'
+const LABEL = 'EstimationAction'
 
 /**
  * Concept.
@@ -59,7 +59,7 @@ class Complex {
   }
 }
 
-const concept = {
+const VALUE_OBJECT = {
   '@type': new TypedStatus(),
   address: t.maybe(t.list(t.String)),
   additionalType: t.maybe(t.String),
@@ -67,7 +67,7 @@ const concept = {
   alternateName: t.maybe(t.String),
   description: t.maybe(t.String),
   disambiguatingDescription: t.maybe(t.String),
-  error: TypedConcept,
+  error: new TypedConcept(),
   endTime: t.maybe(t.DateTime),
   instrument: new Complex(),
   identifier: t.maybe(t.String),
@@ -88,9 +88,9 @@ const concept = {
   url: t.maybe(t.String)
 }
 
-const EstimationAction = t.struct(concept, CONCEPT_NAME)
+const EstimationAction = t.struct(VALUE_OBJECT, LABEL)
 
-helpText.addHelpText(EstimationAction, CONCEPT_NAME)
+helpText.addHelpText(EstimationAction, LABEL)
 
 export default EstimationAction
 
