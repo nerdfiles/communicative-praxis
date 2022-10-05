@@ -8,7 +8,8 @@ informed by existing vocabularies (dublincore.org, schema.org, dbpedia.org, w3.o
 my goal is to bring forth the obvious, how the "document object model" like shared
 vocabularies can be incorporated into protocol-level actions (i.e., how the `disabled`
 attribute can be featured as a property in the <abbr title="application programming interface">API</abbr> 
-along with `skip` and `limit`).
+along with `skip` and `limit`) to deliver hypermedia as the engine of
+application state more easily.
 
 <hr />
 
