@@ -150,11 +150,11 @@ but structure itself, obviously, is not (just) another context.
 
   (a) this is not (just) a structure.
 
-compare:
+[compare][dark]:
 
-  (b) this is not (just) a pattern.[0]
+  (b) this is not (just) a pattern [of the space of possibility]
 
-what makes
+what's workable for this analysis?
 
 ```
 L1* Lying is a sign.
@@ -167,11 +167,13 @@ C* [To teach your little brother to lie is wrong].
 a point here is to draw out models or semantics for assemblages in medium specificity.
 *labeling* begets learnability. suppose `L1* Lying is a sign.` now here asserted
 attitudinal disposition is presupposed, but only with arrangement and activity;
-however *mere assertion*, *mere arrangement*, and *mere supposition of activity* (i.e., conceivability)
-confers not a model that is an analogy with the *agency of reasons*
-(talk of *projectability*, *desirability*) or *advantage of proposition* (*warrantability*;
-i.e., warrant to infer), which are matters having to concern the structure
-of *credences* and *fitness* of belief (*assentability* not to be confused with *aptness*).
+however *mere assertion*, *mere arrangement*, and *mere supposition of activity*
+(i.e., conceivability) confers not a model that is an analogy with the *agency 
+of reasons* (talk of *projectability*, *desirability*) or *advantage of
+proposition* (*warrantability*; i.e., warrant to infer; median utility,
+probabilitistic contents), which are matters having to concern the structure
+of *credences* and *fitness* of belief (*assentability* not to be confused
+with *aptness*).
 
 "labeling" is not so much a confession to annotate with abandon
 (proliferation of metadata signifiers) but to elaborate the structure of
@@ -211,8 +213,6 @@ not just anyone exemplifies that lying is wrong when so considered, for there
 is no fact of the matter to answer such a question while as yet, that's not
 whom speakers are intending to search out as-if lurking around in their own
 meaning.
-
-[0]: https://cup.columbia.edu/book/dark-ecology/9780231177528
 
 ### considering 
 
@@ -290,8 +290,8 @@ e.g.,
 
 <div style="width: 100%">
   <img alt="THE RELEVANCE OF WITTGENSTEIN’S PHILOSOPHY OF PSYCHOLOGY TO THE PSYCHOLOGICAL SCIENCES P. M. S. Hacker \ Clarification of the psychological concepts that are deployed in psychological investigations is a prerequisite for posing fruitful questions amenable to experimental methods. \ This has direct bearing on the psychological sciences. In particular, it can serve to rule out a range of psychological theories that fail to respect this conceptual scheme, while simultaneously invoking it. Wittgenstein’s philosophy of psychology provides a firm ground for fundamental criticisms of: \ Psychological predicates typically display first/third-person asymmetry. The characteristic first-person present tense use (an Aüsserung or avowal) does not rest on introspection conceived as inner sense; nor does it rest on observation of one’s own behaviour. It is groundless. The third-person use, by contrast, rests on what the subject says and does. \ (vii) ‘First-person (epistemic) authority’ and ‘privileged access’ are misnomers. In saying ‘I have a headache’, the speaker enjoys no authority regarding an object of knowledge about which he is better informed than others. \ If anything, the speaker enjoys a form of verdictive power to decide, as when he says ‘I want a glass of water’. If a person cannot say what he wants, what he has to do is not find out, but examine the desirability characteristics of the options and decide what to want. \ To ascribe psychological attributes to the brain is to commit a mereological fallacy – akin to claiming that it is aeroplane’s engines, rather than aeroplanes, that fly, or that it is the great wheel of a clock, rather than the clock as a whole, that keeps time."
-       src="https://raw.githubusercontent.com/nerdfiles/communicative-praxis/master/assets/witty.png"
-       style="max-width: 50%"
+        src="https://raw.githubusercontent.com/nerdfiles/communicative-praxis/master/assets/witty.png"
+        style="max-width: 50%"
   />
 </div>
 
@@ -424,5 +424,6 @@ obviously none of these are "real" yet.
 [temporalism]: http://postscarcitymagazine.com/Article/Temporalism-38
 [educology]: https://tedfrick.sitehost.iu.edu/steiner/Methodology%20of%20Theory%20Building%204mb.pdf
 [metonymies]: https://www.cambridge.org/core/journals/language-and-cognition/article/metonymies-are-more-literal-than-metaphors-evidence-from-ratings-of-german-idioms/1CBBCFF893235E161608B6834860FA69
+[dark]: https://cup.columbia.edu/book/dark-ecology/9780231177528
 
 <!-- EOF -->
