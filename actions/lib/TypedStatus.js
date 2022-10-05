@@ -3,7 +3,7 @@ import { NeedfulList } from './NeedfulList'
 import { NeedfulNumber } from './NeedfulNumber'
 
 const Schema = {
-  '@type': NeedfulList,
+  '@type': NeedfulList(),
   status: NeedfulNumber()
 }
 

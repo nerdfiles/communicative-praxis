@@ -1,9 +1,10 @@
 import t from 'tcomb'
 import { NeedfulList } from './NeedfulList'
+import { NeedfulString } from './NeedfulString'
 
 const Schema = {
   '@type': NeedfulList(),
-  name: t.String
+  name: NeedfulString()
 }
 
 /**
