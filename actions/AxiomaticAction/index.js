@@ -7,6 +7,9 @@
  */
 import t from 'tcomb'
 import HelpText from '../helpers/HelpText'
+import Duration from '../lib/Duration'
+import Instant from '../lib/Instant'
+import GeneralDateTimeDescription from '../lib/GeneralDateTimeDescription'
 
 const helpText = new HelpText()
 
@@ -19,32 +22,6 @@ class Concept {
   constructor () {
     return t.maybe(t.struct({
       itemtype: t.maybe(t.list(t.String))
-    }))
-  }
-}
-
-/**
- * Instant.
- */
-class Instant {
-  constructor () {
-    return t.maybe(t.struct({
-      numericPosition: t.maybe(t.Decimal),
-      hasTRS: t.maybe(t.String),
-      'rdf:type': t.maybe(t.list(t.String))
-    }))
-  }
-}
-
-/**
- * Duration.
- */
-class Duration {
-  constructor () {
-    return t.maybe(t.struct({
-      numericDuration: t.maybe(t.Decimal),
-      unitType: t.maybe(t.Date),
-      'rdf:type': t.maybe(t.list(t.String))
     }))
   }
 }
@@ -85,10 +62,6 @@ class Complex {
   }
 }
 
-const GeneralDateTimeDescription = () => ({
-  year: t.Date
-})
-
 const TemporalEntity = () => ({
   after: t.maybe(TemporalEntity()),
   before: t.maybe(TemporalEntity()),
@@ -99,24 +72,24 @@ const TemporalEntity = () => ({
 
 const VALUE_OBJECT = {
   '@type': new TypedStatus(),
-  address: t.maybe(t.list(t.String)),
   additionalType: t.maybe(t.String),
+  address: t.maybe(t.list(t.String)),
   agent: new Complex(),
   alternateName: t.maybe(t.String),
   description: t.maybe(t.String),
   disambiguatingDescription: t.maybe(t.String),
   error: new TypedConcept(),
-  instrument: new Complex(),
-  'time:intervalContains': TemporalEntity(),
   identifier: t.maybe(t.String),
   image: t.maybe(t.String),
+  instrument: new Complex(),
+  intervalContains: TemporalEntity(),
   location: new Complex(),
   mainEntityOfPage: t.maybe(t.String),
   name: t.String,
   object: new Complex(),
+  participant: new Complex(),
   potentialAction: t.maybe(t.String),
   provider: new Concept(),
-  participant: new Complex(),
   result: new TypedConcept(),
   sameAs: t.maybe(t.String),
   subjectOf: t.maybe(t.String),
