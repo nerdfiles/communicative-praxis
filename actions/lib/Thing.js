@@ -1,10 +1,12 @@
 import t from 'tcomb'
 
+const Schema = {
+  subClassOf: t.String
+}
+
 /**
  * Thing.
  */
-export const Thing = () => ({
-  subClassOf: t.String
-})
+export const Thing = () => (Schema)
 
 // EOF
