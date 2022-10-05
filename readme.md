@@ -1,5 +1,7 @@
 # communcative praxis
 
+[repo]
+
 act tasks described in tense, modal, affective and veridictive marker annotations.
 
 <div style="width: 100%">
@@ -425,5 +427,6 @@ obviously none of these are "real" yet.
 [educology]: https://tedfrick.sitehost.iu.edu/steiner/Methodology%20of%20Theory%20Building%204mb.pdf
 [metonymies]: https://www.cambridge.org/core/journals/language-and-cognition/article/metonymies-are-more-literal-than-metaphors-evidence-from-ratings-of-german-idioms/1CBBCFF893235E161608B6834860FA69
 [dark]: https://cup.columbia.edu/book/dark-ecology/9780231177528
+[repo]:
 
 <!-- EOF -->
