@@ -6,10 +6,14 @@ according to the hypermedia-orientation. action semantics are partially
 informed by existing vocabularies (dublincore.org, schema.org, dbpedia.org, w3.org, etc.).
 
 my goal is to bring forth the obvious, how the "document object model" like shared
-vocabularies can be incorporated into protocol-level actions (i.e., how the `disabled`
-attribute can be featured as a property in the <abbr title="application programming interface">API</abbr> 
-along with `skip` and `limit`) to deliver hypermedia as the engine of
-application state more easily.
+vocabularies can be incorporated into the approach of using protocol-level
+actions (i.e., how the `disabled` attribute can be featured as a property in
+the <abbr title="application programming interface">API</abbr> along with
+`skip` and `limit`) to deliver hypermedia as the engine of application state more easily.
+
+i don't think we need as much javascript as we do today to manipulate the DOM
+if we'd just plan eventual interactivity more thoroughly. plus, the cached
+execution of javascript is [a performance bottleneck][neck].
 
 <hr />
 
@@ -439,5 +443,6 @@ obviously none of these are "real" yet.
 [metonymies]: https://www.cambridge.org/core/journals/language-and-cognition/article/metonymies-are-more-literal-than-metaphors-evidence-from-ratings-of-german-idioms/1CBBCFF893235E161608B6834860FA69
 [dark]: https://cup.columbia.edu/book/dark-ecology/9780231177528
 [repo]: https://github.com/nerdfiles/communicative-praxis
+[neck]: https://www.webperf.tips/tip/cached-js-misconceptions/
 
 <!-- EOF -->
