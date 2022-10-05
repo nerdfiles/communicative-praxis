@@ -1,96 +1,70 @@
 /**
  * @name EstimationAction
+ * @description # EstimationAction
  * @usage
- * const estimationAction = EstimationAction({
+ * const estimationAction = (new?) EstimationAction({
  *   name: 'est.1'
  * })
  */
+
+// ## includes
+
 import t from 'tcomb'
 import HelpText from '../helpers/HelpText'
+import Complex from '../lib/Complex'
+import Concept from '../lib/Concept'
+import TypedConcept from '../lib/TypedConcept'
+import TypedStatus from '../lib/TypedStatus'
+import { NeedfulList } from '../lib/NeedfulList'
+import { NeedfulString } from '../lib/NeedfulString'
+import { UsefulString } from '../lib/UsefulString'
+import { UsefulEnsemble } from '../lib/UsefulEnsemble'
+import { UsefulDateTime } from '../lib/UsefulDateTime'
+
+// ## tools
 
 const helpText = new HelpText()
 
+// ## constants
+
 const LABEL = 'EstimationAction'
 
-/**
- * Concept.
- */
-class Concept {
-  constructor () {
-    return t.maybe(t.struct({
-      itemtype: t.maybe(t.list(t.String))
-    }))
-  }
-}
+// ## program
 
-/**
- * TypedConcept.
- */
-class TypedConcept {
-  constructor () {
-    return t.maybe(t.struct({
-      status: t.maybe(t.Number),
-      itemtype: t.maybe(t.list(t.String))
-    }))
-  }
-}
-
-/**
- * TypedStatus.
- */
-class TypedStatus {
-  constructor () {
-    return t.maybe(t.struct({
-      '@type': t.list(t.String),
-      status: t.Number
-    }))
-  }
-}
-
-/**
- * Complex.
- */
-class Complex {
-  constructor () {
-    return t.maybe(t.struct({
-      '@type': t.list(t.String),
-      name: t.String
-    }))
-  }
-}
-
-const VALUE_OBJECT = {
+const ActionSchema = {
   '@type': new TypedStatus(),
-  address: t.maybe(t.list(t.String)),
-  additionalType: t.maybe(t.String),
+  name: NeedfulString(),
+  tags: NeedfulList(),
+  address: UsefulEnsemble(),
+  additionalType: UsefulString(),
   agent: new Complex(),
-  alternateName: t.maybe(t.String),
-  description: t.maybe(t.String),
-  disambiguatingDescription: t.maybe(t.String),
+  alternateName: UsefulString(),
+  description: UsefulString(),
+  disambiguatingDescription: UsefulString(),
   error: new TypedConcept(),
-  endTime: t.maybe(t.DateTime),
+  endTime: UsefulDateTime(),
   instrument: new Complex(),
-  identifier: t.maybe(t.String),
-  image: t.maybe(t.String),
+  identifier: UsefulString(),
+  image: UsefulString(),
   location: new Complex(),
-  mainEntityOfPage: t.maybe(t.String),
-  name: t.String,
+  mainEntityOfPage: UsefulString(),
   object: new Complex(),
-  potentialAction: t.maybe(t.String),
+  potentialAction: UsefulString(),
   provider: new Concept(),
   participant: new Complex(),
   result: new TypedConcept(),
-  sameAs: t.maybe(t.String),
-  subjectOf: t.maybe(t.String),
-  startTime: t.maybe(t.DateTime),
-  tags: t.list(t.String),
+  sameAs: UsefulString(),
+  subjectOf: UsefulString(),
+  startTime: UsefulDateTime(),
   target: new Concept(),
-  url: t.maybe(t.String)
+  url: UsefulString()
 }
 
-const EstimationAction = t.struct(VALUE_OBJECT, LABEL)
+const EstimationAction = t.struct(ActionSchema, LABEL)
 
 helpText.addHelpText(EstimationAction, LABEL)
+
+// ## try
 
 export default EstimationAction
 

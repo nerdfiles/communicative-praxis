@@ -1,8 +1,10 @@
 import t from 'tcomb'
 
-const GeneralDateTimeDescription = () => ({
+const model = {
   year: t.Date
-})
+}
+
+const GeneralDateTimeDescription = () => (model)
 
 export default GeneralDateTimeDescription
 
