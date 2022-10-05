@@ -1,14 +1,17 @@
 import t from 'tcomb'
+import { NeedfulList } from './NeedfulList'
+
+const Schema = {
+  '@type': NeedfulList,
+  status: t.Number
+}
 
 /**
  * TypedStatus.
  */
 class TypedStatus {
   constructor () {
-    return t.maybe(t.struct({
-      '@type': t.list(t.String),
-      status: t.Number
-    }))
+    return t.maybe(t.struct(Schema))
   }
 }
 

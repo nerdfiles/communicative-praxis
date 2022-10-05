@@ -1,6 +1,6 @@
 import t from 'tcomb'
 
-const model = {
+const Schema = {
   numericPosition: t.maybe(t.Decimal),
   hasTRS: t.maybe(t.String),
   'rdf:type': t.maybe(t.list(t.String))
@@ -11,7 +11,7 @@ const model = {
  */
 class Instant {
   constructor () {
-    return t.maybe(t.struct(model))
+    return t.maybe(t.struct(Schema))
   }
 }
 
