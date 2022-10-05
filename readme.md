@@ -25,7 +25,7 @@ some solutions are apt, others are not. the hypermedia-orientation is a paradigm
 strategy for handling distributed applications such that the dependency on languages
 like javascript can be focused on "layer" mechanism rather than "application" mechanism,
 where other languages like css, and logical document planning, can shine 
-(without DOM manipulation, etc.)
+(without, or with significantly less, DOM manipulation, etc.)
 
 <hr />
 
