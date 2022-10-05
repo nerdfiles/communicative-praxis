@@ -113,6 +113,107 @@ see [WebSocket and WebWorker][www].
 
 communicative acts imply realizable or unrealizable tasks.
 
+### conceivability
+
+#### demandingness
+
+#### desirability
+
+#### warrantability
+
+#### projectability
+
+projectable predicates, etc.
+
+#### (multiple) realizability
+
+#### exemplification
+
+#### inferential expressivity
+
+sentences bear subjects of multiple modalities, fundamentally in no
+particular arrangement or architecture between themselves. *aboutness* itself
+is an acentered conjecture of something about something. sentences reveal
+subjects as agents or topics, or form in general that is structured. minimally
+a well-formed sentence may express one subject, namely of which whom or what
+acts on an object or through an object given. at once the sentence could
+relate a topic as-subject or as-structure according to its ensembling in action.
+
+at one level a sentence relates one thing, some agent, say. at another it relates,
+perhaps, a truth-apt claim about something. are sentences always and everywhere
+about this business? sometimes they are. for whom the sentence is about is
+again here at once a question that underscores a manner of acontextuality;
+how does one become acontextual in such a way as we relate between sentences
+as do their speakers ex hypothesis? can we merely grant that we are composing
+anything from the structure of the space of possibility? contexts are structured,
+but structure itself, obviously, is not (just) another context.
+
+  (a) this is not (just) a structure.
+
+compare:
+
+  (b) this is not (just) a pattern.[0]
+
+what makes
+
+```
+L1* Lying is a sign.
+P1* If [lying is wrong], then [to teach your little brother to lie is wrong].
+P2* [Lying is wrong].
+————————————————————————————–
+C* [To teach your little brother to lie is wrong].
+```
+
+a point here is to draw out models or semantics for assemblages in medium specificity.
+*labeling* begets learnability. suppose `L1* Lying is a sign.` now here asserted
+attitudinal disposition is presupposed, but only with arrangement and activity;
+however *mere assertion*, *mere arrangement*, and *mere supposition of activity* (i.e., conceivability)
+confers not a model that is an analogy with the *agency of reasons*
+(talk of *projectability*, *desirability*) or *advantage of proposition* (*warrantability*;
+i.e., warrant to infer), which are matters having to concern the structure
+of *credences* and *fitness* of belief (*assentability* not to be confused with *aptness*).
+
+"labeling" is not so much a confession to annotate with abandon
+(proliferation of metadata signifiers) but to elaborate the structure of
+circumstance as a condition of the model, for, and between peerless,
+autonomous tasks in eventual interactivity or joint epistemic sponteneity.
+
+#### is this not just "going modal"?
+
+yes and no. we could see modalism as a gesture toward some realism about
+something or other. it is *really true* that we want to outline who disagrees
+and who does not, but that's not only it. traceability, adjustability,
+and incrementability of belief or desire play roles as descriptive
+indicators of the motion that is disagreement. spatiotemporal description
+leaves us wanting for what follows logically from disagreement. modality
+tells us when there is a change in the quality properties of meaningful truth
+(or say, contribution thereto its realization). that a sign may change
+is a constant reality of the measure of disagreement, how near or far those
+in disagreement or agreement relate to one another given some other
+existing notional stability of attendant or co-governing sense. modes
+for graph traversal, often represented as conceivability, become undone 
+given radical change or difference of advantage of proposition between
+agents.
+
+typically speakers do not speak as though certain objects would not exemplify
+properties; their speech is not a stipulaion that quality properties do not
+hold but rather should. obviously we presume to some extent a likeness of
+ourselves to those who would exemplify qualities coherent with our descriptions.
+to say the least, if it is true that lying is wrong, we do not as speakers
+typically seek to point that out about ourselves merely in virtue of a sentence
+possessing certain qualities by other speakers arrangements, assertions, or
+active uses (in a discourse). we may call ourselves liars but that's got
+very little to do with `lying is wrong` appearing in an argument somewhere
+because it happens to be a premise. more important, it demands that exemplification
+be a quality property of arguments which, so then, presupposees the existence
+of labels for those whom or what exemplify in nature according to the arguments.
+not just anyone exemplifies that lying is wrong when so considered, for there
+is no fact of the matter to answer such a question while as yet, that's not
+whom speakers are intending to search out as-if lurking around in their own
+meaning.
+
+[0]: https://cup.columbia.edu/book/dark-ecology/9780231177528
+
 ### considering 
 
 `def=: (consideration for future consequences)`
