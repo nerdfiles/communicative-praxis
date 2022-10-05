@@ -1,9 +1,11 @@
 import t from 'tcomb'
+import { UsefulEnsemble } from './UsefulEnsemble'
+import { UsefulString } from './UsefulString'
 
 const Schema = {
   numericPosition: t.maybe(t.Decimal),
-  hasTRS: t.maybe(t.String),
-  'rdf:type': t.maybe(t.list(t.String))
+  hasTRS: UsefulString(),
+  'rdf:type': UsefulEnsemble()
 }
 
 /**

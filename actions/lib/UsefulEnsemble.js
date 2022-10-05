@@ -1,2 +1,13 @@
 import t from 'tcomb'
-export const Ensemble = () => (t.maybe(t.list(t.String)))
+import { NeedfulString } from './NeedfulString'
+
+const UnorderedStrings = t.list(NeedfulString)
+
+const MaybeStrings = t.maybe(UnorderedStrings)
+
+/**
+ * Ensemble.
+ */
+export const Ensemble = () => (MaybeStrings)
+
+// EOF

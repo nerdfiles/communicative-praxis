@@ -1,8 +1,9 @@
 import t from 'tcomb'
 import { UsefulEnsemble } from './UsefulEnsemble'
+import { UsefulNumber } from './UsefulNumber'
 
 const Schema = {
-  status: t.maybe(t.Number),
+  status: UsefulNumber(),
   itemtype: UsefulEnsemble()
 }
 

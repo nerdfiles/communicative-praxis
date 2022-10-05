@@ -1,9 +1,10 @@
 import t from 'tcomb'
 import { NeedfulList } from './NeedfulList'
+import { NeedfulNumber } from './NeedfulNumber'
 
 const Schema = {
   '@type': NeedfulList,
-  status: t.Number
+  status: NeedfulNumber()
 }
 
 /**

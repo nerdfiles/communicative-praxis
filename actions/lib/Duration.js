@@ -1,9 +1,10 @@
 import t from 'tcomb'
+import UsefulEnsemble from './UsefulEnsemble'
 
-const model = {
+const Schema = {
   numericDuration: t.maybe(t.Decimal),
   unitType: t.maybe(t.Date),
-  'rdf:type': t.maybe(t.list(t.String))
+  'rdf:type': UsefulEnsemble()
 }
 
 /**
@@ -11,7 +12,7 @@ const model = {
  */
 class Duration {
   constructor () {
-    return t.maybe(t.struct(model))
+    return t.maybe(t.struct(Schema))
   }
 }
 

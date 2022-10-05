@@ -1,8 +1,10 @@
 import t from 'tcomb'
 
+const NovelString = t.String
+
 /**
  * NeedfulString.
  */
-export const NeedfulString = () => (t.String)
+export const NeedfulString = () => (NovelString)
 
 // EOF

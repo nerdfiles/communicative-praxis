@@ -1,7 +1,8 @@
 import t from 'tcomb'
+import { NeedfulList } from './NeedfulList'
 
 const Schema = {
-  '@type': t.list(t.String),
+  '@type': NeedfulList(),
   name: t.String
 }
 
