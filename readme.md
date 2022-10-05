@@ -15,8 +15,17 @@ i don't think we need as much javascript as we do today to manipulate the DOM
 if we'd just plan eventual interactivity more thoroughly. plus, the cached
 execution of javascript is [a performance bottleneck][neck]. javascript to call
 and faithfully deliver task-based interfaces in the response text? great. javascript
-to perform weird DOM manipulations, traversals, creations, and deletions? not the best.
-that's why your apps perform with jankiness and wonkiness after our purposeful use.
+to perform weird DOM manipulations, traversals, creations, and deletions? *not
+the best*. that's why apps increasingly come to perform with jankiness and wonkiness
+after our purposeful use. the very nature of how we solve interface design 
+opportunities does not necessarily align with our purpose in use. 
+purpose and the "developer experience" can fall out of alignment since the developer
+is concerned with concealing and revealing work done by the programs in question.
+some solutions are apt, others are not. the hypermedia-orientation is a paradigmatic
+strategy for handling distributed applications such that the dependency on languages
+like javascript can be focused on "layer" mechanism rather than "application" mechanism,
+where other languages like css, and logical document planning, can shine 
+(without DOM manipulation, etc.)
 
 <hr />
 
